@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishnuKompelly
-- 👀 I’m interested in Cyber Security and Web Development
+- 👀 I’m interested in AI/ML and Web Development
 - 🌱 I’m currently learning full stack developer
 - 📫 How to reach me .... email me at @ vishnuvardhanreddykompelly@gmail.com
 
