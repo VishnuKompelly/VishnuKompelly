@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishnuKompelly
 - 👀 I’m interested in AI/ML and Web Development
-- 🌱 I’m currently learning full stack developer
+- 🌱 I’m currently learning full stack developement
 - 📫 How to reach me .... email me at @ vishnuvardhanreddykompelly@gmail.com
 
 <!---
